@@ -14,12 +14,14 @@
 ```py
 KaliMafiaM@github
 ----------------
-
-Infos  : Pirate Hacker
-Languages  :  Python, JS batch, html
-Kali Download : https://www.kali.org/
-Ubuntu Download : https://ubuntu.com/download
-Debian download : https://www.debian.org/distrib/
+Code:
+python
+batch
+javascript
+html
+css
+shell
+php
 
 
 
