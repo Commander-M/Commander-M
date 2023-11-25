@@ -44,8 +44,8 @@
 
 <p align="left">
   <a href="https://CommanderM-7.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=CommanderM-7&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=CommanderM-7&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Commander-M&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Commander-M&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 
