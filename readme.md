@@ -11,9 +11,7 @@
 
 <img src="https://camo.githubusercontent.com/5256f260dc380bcb09bf91ba68ddcbd1e7356068e60eecfbad78133ad67a7ff5/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3933393436353037323037393333373639392f413434413244323442423938373236374632364335363434304635314130423436383438313232322f" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
 
-```
-                                                  
-                  .:^!7????7!^:.                  
+```                                              
               ^75PP#@@GY&&YG@@#PP57^              
            ^YBGY!^5&Y:  BB  :Y&5^!YGBY^           
          !GBJ^  .G&~    BB    ~&B.  ^JBG!         
@@ -33,9 +31,7 @@
        ^G##G?!^:B#:     BB     :#B:^!?G##B^       
          !GBJ^  .G&~    BB    ~&B.  :JBG!         
            ^YBGY!^5&Y:  BB  :Y&5^!YGBY^           
-              ^?5PP#@@GY&&YG@@#PP5?^              
-                  .:^!7????7!^:.                  
-
+              ^?5PP#@@GY&&YG@@#PP5?^                        
 ```
 <hr>
 
