@@ -1,6 +1,6 @@
 <p align="center">
   <b>🎨 Follow me in my Gthub 🎨</b><br>  
-  <a href="https://github.com/CommanderM-7">Github</a> |
+  <a href="https://github.com/Commander-M">Github</a> |
   <a href="https://www.kali.org/tools/">Kali Linux</a> 
   <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="1000">
   </p>
