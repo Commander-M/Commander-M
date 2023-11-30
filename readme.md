@@ -15,7 +15,14 @@
      #═╦═══════» [we are present]
        ╚═╦══════» [We are the men in black]
          ╚═╦══════» [Algeria and Russia💙]
-           ╚══> H.N team 
+           ╚══> H.N team
+
+# Python
+# Batch
+# Html css
+# Javascript
+# shell
+#═══════════════> lang.py
 ```
 <hr>
 
