@@ -18,11 +18,11 @@ namespace MJD
 ```
 
 ```python
-       Computer  :  Windows 10
-   Python  :  python 3.10
+Computer  :  Windows 10
+Python  :  python 3.10
 Languages  :  Python, Js, Batch, HTML/CSS
-  Discord  :  None
-   Team  :  MJD
+Discord  :  None
+Team  :  MJD
 ```
 
 ```json
