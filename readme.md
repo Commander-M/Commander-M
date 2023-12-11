@@ -1,36 +1,30 @@
-<p align="center">
-  <b>🎨 Follow me in my Github 🎨</b><br>  
-  <a href="https://github.com/Commander-M">Github</a> |
-  <a href="https://www.kali.org/tools/">Kali Linux</a> 
-  <img src="https://cdn.discordapp.com/attachments/975036883958636557/975080429197590618/tumblr_00fca58e088e62fee1268fba5e7196d0_ab2ffa4a_500.webp" width="1000">
-  </p>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Views&color=bb2527&style=flat&style=for-the-badge&query=%24.views&url=https://api.github-star-counter.workers.dev/user/Commander-M" alt="Profile Views"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Commander-M" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Commander-M" alt="Profile Forks"></a>
 
-```bash
-> MJD
+```C#
+// Commander M
+using System;
+ 
+namespace MJD
+{
+    class MD {         
+        static void Main(string[] args)
+        {
+            Console.WriteLine("follow Commander M on gitub");
+        }
+    }
+}
 ```
 
-<img src="https://camo.githubusercontent.com/5256f260dc380bcb09bf91ba68ddcbd1e7356068e60eecfbad78133ad67a7ff5/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3933393436353037323037393333373639392f413434413244323442423938373236374632364335363434304635314130423436383438313232322f" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
-
-```                                              
-     #═╦═══════» [we are present]
-       ╚═╦══════» [We are the men in black]
-         ╚═╦══════» [Algeria and Russia💙]
-           ╚══> H.N team
-
-# Python
-# Batch
-# Html css
-# Javascript
-# shell
-#═══════════════> lang.py
+```python
+       Computer  :  Windows 10
+   Python  :  python 3.10
+Languages  :  Python, Js, Batch, HTML/CSS
+  Discord  :  None
+   Team  :  MJD
 ```
-<hr>
 
-<p align="left">
-  <a href="https://CommanderM-7.github.io">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Commander-M&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Commander-M&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-
-<hr>
+```json
+we will always be there.
+```
