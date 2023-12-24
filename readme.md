@@ -6,7 +6,7 @@
 // Commander M
 using System;
  
-namespace MJD
+namespace AnOn
 {
     class MD {         
         static void Main(string[] args)
@@ -22,7 +22,7 @@ Computer  :  Windows 10
 Python  :  python 3.10
 Languages  :  Python, Js, Batch, HTML/CSS
 Discord  :  None
-Team  :  MJD
+Team  :  An0n
 ```
 
 ```json
