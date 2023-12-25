@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Commander-M" alt="Profile Forks"></a>
 
 <p align="center">
-  <img width="460" height="300" src="https://media1.giphy.com/media/EaEWuES5SDSpcnOlRt/giphy.gif?cid=ecf05e47pjm0eobj8r8xqqc24rk0bieo4zszzm4xwikazeem&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_dedsec_white.png">
 </p>
 
 
