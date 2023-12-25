@@ -6,6 +6,7 @@
   <img width="460" height="400" src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Logo_dedsec_white.png">
 </p>
 
+<img align="right" width="300" height="300" src="https://static.wikia.nocookie.net/watchdogsbeta/images/c/c0/S06_dedsexxx_logo.gif/revision/latest?cb=20201117100447">
 
 ```C#
 // Commander M
@@ -22,7 +23,7 @@ namespace AnOn
 }
 ```
 
-<img align="left" width="100" height="100" src="https://static.wikia.nocookie.net/watchdogsbeta/images/c/c0/S06_dedsexxx_logo.gif/revision/latest?cb=20201117100447">
+
 
 ```python
 Computer  :  Windows 10
