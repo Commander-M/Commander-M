@@ -28,7 +28,7 @@ Computer  :  Windows 10
 Python  :  python 3.10
 Languages  :  Python, Js, Batch, HTML/CSS
 Discord  :  None
-Team  :  An0n
+Team  :  DEDSEC
 ```
 
 ```json
